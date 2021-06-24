@@ -38,7 +38,9 @@ Those are the main core packages.
         GITHUB_CLIENT_SECRET=your github_cleint_secret
         GITHUB_REDIRECT_URL="http://github-trending-app.test/login/github/callback"
      
-    `php artisan migrate`
+    `php artisan migrate` or import the file to database (https://github.com/dibakarmitra/github-trending-app/blob/master/github_trending_app.sql)
     `php artisan serve` or copy the folder to server folder
+    
+    please change the "http://github-trending-app.test" according to your.
     
     
