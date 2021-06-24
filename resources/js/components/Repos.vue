@@ -35,7 +35,7 @@
                 class="circle"
               />
               <div class="d-flex flex-column ml-2">
-                <a :href="'https://github.com/' + repo.full_name">{{
+                <a :href="'https://github.com/' + repo.full_name" target="_blank">{{
                   repo.full_name
                 }}</a
                 ><span
