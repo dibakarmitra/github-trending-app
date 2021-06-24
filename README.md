@@ -43,6 +43,10 @@ Those are the main core packages.
     
   please change the "http://github-trending-app.test" according to your.
   
+  login url (http://github-trending-app.test/login)
+  register url (http://github-trending-app.test/register)
+  repos url (http://github-trending-app.test/repos)
+  
   ##Screenshots
   
  <p align="center"><img src="https://github.com/dibakarmitra/github-trending-app/blob/master/screenshots/Screenshot%20(18).png?raw=true" width="50%" height="auto"><img height="150" src="https://github.com/dibakarmitra/github-trending-app/blob/master/screenshots/Screenshot%20(21).png?raw=true" width="50%" height="auto">
