@@ -41,6 +41,12 @@ Those are the main core packages.
     `php artisan migrate` or import the file to database (https://github.com/dibakarmitra/github-trending-app/blob/master/github_trending_app.sql)
     `php artisan serve` or copy the folder to server folder
     
-    please change the "http://github-trending-app.test" according to your.
+  please change the "http://github-trending-app.test" according to your.
+  
+  ##Screenshots
+  
+ <p align="center"><img src="https://github.com/dibakarmitra/github-trending-app/blob/master/screenshots/Screenshot%20(18).png?raw=true" width="50%"><img height="150" src="https://github.com/dibakarmitra/github-trending-app/blob/master/screenshots/Screenshot%20(21).png?raw=true" width="50%">
+<img src="https://github.com/dibakarmitra/github-trending-app/blob/master/screenshots/Screenshot%20(22)_LI.jpg?raw=true" width="50%"><img height="150" src="https://github.com/dibakarmitra/github-trending-app/blob/master/screenshots/Screenshot%20(23).png?raw=true" width="50%">
+</p>
     
     
