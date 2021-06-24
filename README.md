@@ -45,8 +45,8 @@ Those are the main core packages.
   
   ##Screenshots
   
- <p align="center"><img src="https://github.com/dibakarmitra/github-trending-app/blob/master/screenshots/Screenshot%20(18).png?raw=true" width="50%"><img height="150" src="https://github.com/dibakarmitra/github-trending-app/blob/master/screenshots/Screenshot%20(21).png?raw=true" width="50%">
-<img src="https://github.com/dibakarmitra/github-trending-app/blob/master/screenshots/Screenshot%20(22)_LI.jpg?raw=true" width="50%"><img height="150" src="https://github.com/dibakarmitra/github-trending-app/blob/master/screenshots/Screenshot%20(23).png?raw=true" width="50%">
+ <p align="center"><img src="https://github.com/dibakarmitra/github-trending-app/blob/master/screenshots/Screenshot%20(18).png?raw=true" width="50%" height="auto"><img height="150" src="https://github.com/dibakarmitra/github-trending-app/blob/master/screenshots/Screenshot%20(21).png?raw=true" width="50%" height="auto">
+<img src="https://github.com/dibakarmitra/github-trending-app/blob/master/screenshots/Screenshot%20(22)_LI.jpg?raw=true" width="50%" height="auto"><img height="150" src="https://github.com/dibakarmitra/github-trending-app/blob/master/screenshots/Screenshot%20(23).png?raw=true" width="50%" height="auto">
 </p>
     
     
