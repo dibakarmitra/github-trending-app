@@ -18,6 +18,9 @@ using Vue JS, REST API & Laravel
 - [Bootstrap 4.6](https://getbootstrap.com/).
 
 Those are the main core packages.
+
+Features - Login with GitHub account, showing the trending github repositories and search top star repositories.
+
 ## How to config & install .
     `git clone https://github.com/dibakarmitra/github-trending-app.git`
     `cd github-trending-app`
